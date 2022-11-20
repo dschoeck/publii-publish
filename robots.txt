@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://github.com/dschoeck/publii-publish/sitemap.xml
+Sitemap: https://dschoeck.github.io/publii-publish/sitemap.xml

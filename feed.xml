@@ -16,7 +16,6 @@
         </author>
         <link href="https://dschoeck.github.io/publii-publish/scheduled.html"/>
         <id>https://dschoeck.github.io/publii-publish/scheduled.html</id>
-            <category term="content περιεχόμενο"/>
 
         <updated>2030-01-01T12:00:18-06:00</updated>
             <summary>
@@ -40,7 +39,7 @@
         <link href="https://dschoeck.github.io/publii-publish/epipedo-3.html"/>
         <id>https://dschoeck.github.io/publii-publish/epipedo-3.html</id>
 
-        <updated>2022-11-20T12:51:02-06:00</updated>
+        <updated>2020-02-14T13:32:50-06:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -58,7 +57,7 @@
         <link href="https://dschoeck.github.io/publii-publish/epipedo-2-second-greek-level.html"/>
         <id>https://dschoeck.github.io/publii-publish/epipedo-2-second-greek-level.html</id>
 
-        <updated>2022-11-20T12:51:02-06:00</updated>
+        <updated>2020-02-14T13:31:47-06:00</updated>
             <summary>
                 <![CDATA[
                     Σελίδα 2ου επιπέδου - Second level page
@@ -80,7 +79,7 @@
         <link href="https://dschoeck.github.io/publii-publish/ellinika-greek.html"/>
         <id>https://dschoeck.github.io/publii-publish/ellinika-greek.html</id>
 
-        <updated>2022-11-20T12:51:02-06:00</updated>
+        <updated>2020-02-14T13:31:00-06:00</updated>
             <summary>
                 <![CDATA[
                     Typography tests for Greek Ελληνική σελίδα 1ου επιπέδου και δείγμα τυπογραφίας. Headings Επικεφαλίδες Single line blockquote: Μια γραμμή Πολλές γραμμέ με αναφορά Multi&hellip;
@@ -246,10 +245,8 @@ line-height: 1.2;
         </author>
         <link href="https://dschoeck.github.io/publii-publish/block-image.html"/>
         <id>https://dschoeck.github.io/publii-publish/block-image.html</id>
-            <category term="image"/>
-            <category term="content περιεχόμενο"/>
 
-        <updated>2022-11-20T13:16:04-06:00</updated>
+        <updated>2018-11-03T15:20:00-05:00</updated>
             <summary>
                 <![CDATA[
                     Welcome to image alignment! If you recognize this post, it is because these are blocks that have been converted from the classic Markup:&hellip;
@@ -385,9 +382,8 @@ line-height: 1.2;
         </author>
         <link href="https://dschoeck.github.io/publii-publish/block-button.html"/>
         <id>https://dschoeck.github.io/publii-publish/block-button.html</id>
-            <category term="content περιεχόμενο"/>
 
-        <updated>2022-11-20T12:51:02-06:00</updated>
+        <updated>2018-11-03T13:20:00-05:00</updated>
             <summary>
                 <![CDATA[
                     Button blocks are not semantically buttons, but links inside a styled div.&nbsp; If you do not add a link, a link tag without&hellip;
@@ -474,9 +470,8 @@ line-height: 1.2;
         </author>
         <link href="https://dschoeck.github.io/publii-publish/block-cover.html"/>
         <id>https://dschoeck.github.io/publii-publish/block-cover.html</id>
-            <category term="image"/>
 
-        <updated>2022-11-20T12:51:02-06:00</updated>
+        <updated>2018-11-03T12:25:00-05:00</updated>
             <summary>
                 <![CDATA[
                     This is a left aligned cover block with a background image. The cover block lets you add text on top of images or&hellip;
@@ -566,12 +561,9 @@ line-height: 1.2;
         </author>
         <link href="https://dschoeck.github.io/publii-publish/block-gallery.html"/>
         <id>https://dschoeck.github.io/publii-publish/block-gallery.html</id>
-            <category term="image"/>
-            <category term="gallery"/>
-            <category term="content περιεχόμενο"/>
             <category term="Columns"/>
 
-        <updated>2022-11-20T12:51:02-06:00</updated>
+        <updated>2018-11-03T03:55:09-05:00</updated>
             <summary>
                 <![CDATA[
                     Gallery blocks have two settings: the number of columns, and whether or not images should be cropped. The default number of columns is&hellip;
@@ -1044,10 +1036,9 @@ Raindrop ripples on a pond</figcaption>
         </author>
         <link href="https://dschoeck.github.io/publii-publish/block-columns.html"/>
         <id>https://dschoeck.github.io/publii-publish/block-columns.html</id>
-            <category term="content περιεχόμενο"/>
             <category term="Columns"/>
 
-        <updated>2022-11-20T12:51:02-06:00</updated>
+        <updated>2018-11-02T12:10:00-05:00</updated>
             <summary>
                 <![CDATA[
                     This page tests how the theme displays the columns block. The first block tests a two column block with paragraphs. This is the&hellip;
@@ -1339,9 +1330,8 @@ Raindrop ripples on a pond</figcaption>
         </author>
         <link href="https://dschoeck.github.io/publii-publish/block-quote.html"/>
         <id>https://dschoeck.github.io/publii-publish/block-quote.html</id>
-            <category term="content περιεχόμενο"/>
 
-        <updated>2022-11-20T12:51:02-06:00</updated>
+        <updated>2018-11-01T15:28:56-05:00</updated>
             <summary>
                 <![CDATA[
                     The quote block has two styles,&nbsp;regular: Gutenberg is more than an editor. The Gutenberg Team and large: Yes, it is a press, certainly,&hellip;

@@ -19,7 +19,6 @@
                 "name": "dschoeck"
             },
             "tags": [
-                   "content περιεχόμενο"
             ],
             "date_published": "2030-01-01T12:00:18-06:00",
             "date_modified": "2030-01-01T12:00:18-06:00"
@@ -75,8 +74,6 @@
                 "name": "dschoeck"
             },
             "tags": [
-                   "image",
-                   "content περιεχόμενο"
             ],
             "date_published": "2018-11-03T15:20:00-05:00",
             "date_modified": "2022-11-20T13:16:04-06:00"
@@ -91,7 +88,6 @@
                 "name": "dschoeck"
             },
             "tags": [
-                   "content περιεχόμενο"
             ],
             "date_published": "2018-11-03T13:20:00-05:00",
             "date_modified": "2022-11-20T12:51:02-06:00"
@@ -106,7 +102,6 @@
                 "name": "dschoeck"
             },
             "tags": [
-                   "image"
             ],
             "date_published": "2018-11-03T12:25:00-05:00",
             "date_modified": "2022-11-20T12:51:02-06:00"
@@ -121,9 +116,6 @@
                 "name": "dschoeck"
             },
             "tags": [
-                   "image",
-                   "gallery",
-                   "content περιεχόμενο",
                    "Columns"
             ],
             "date_published": "2018-11-03T03:55:09-05:00",
@@ -139,7 +131,6 @@
                 "name": "dschoeck"
             },
             "tags": [
-                   "content περιεχόμενο",
                    "Columns"
             ],
             "date_published": "2018-11-02T12:10:00-05:00",
@@ -155,7 +146,6 @@
                 "name": "dschoeck"
             },
             "tags": [
-                   "content περιεχόμενο"
             ],
             "date_published": "2018-11-01T15:28:56-05:00",
             "date_modified": "2022-11-20T12:51:02-06:00"
